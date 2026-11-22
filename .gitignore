@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+models/*.joblib
+models/*.pkl
+models/evaluation.json
+datasets/*.csv
+!datasets/.gitkeep
